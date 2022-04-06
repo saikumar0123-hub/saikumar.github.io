@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/saikumar0123-hub/saikumar.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Oracle HCM cloud Consultant with an experience of over 1.5 years. I have hands on experienceworking with Payroll, Core-hr, Absence modules. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+</p>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+### **Software Engineer**
+### Wipro,LTD
 
-1. Numbered
-2. List
+Working with HCM team for Implementing projects in core-hr, Payroll, Absence, Hr-helpdesk modules. I also worked on Technical aspects like OTBI Reports, Fastformula's, HCM Dataloaders, SQL, PL/SQL.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### **Oracle HCM Techno-Functional Consultant**
+### Evosys Global
+### Project: Qatar Stock Exchange
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Worked on Implementation of payroll, Core-hr,  HR-helpdesk modules & supporting projects 
 
-### Jekyll Themes
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saikumar0123-hub/saikumar.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Education
 
-### Support or Contact
+### **Saveetha Engineering college**
+### BTech Computer Science (2016-2020)
+GPA 6.5
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+
+### INTERESTS
+Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+
+I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
