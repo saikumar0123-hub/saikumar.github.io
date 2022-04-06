@@ -1,1 +1,11 @@
+title: Saikumar # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Software Engineer
+  <br><br>
+  <a href="mailto:saikumar77885@gmail.com">saikumar77885@gmail.com</a>
+  <br>
+  <a href="https://www.linkedin.com/in/aashimaahuja/">LinkedIn Profile</a>
+  <br>
+  <a href="https://www.gihub.com/saikumar0123/">Gihub</a> 
 theme: jekyll-theme-minimal
